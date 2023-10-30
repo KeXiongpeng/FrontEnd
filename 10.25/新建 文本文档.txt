@@ -1,0 +1,7 @@
+<html>
+<body background="./img/LINA.jpg">
+<h3>图像背景</h3>
+<p>gif和jpg图像均可用于制作页面背景</p>
+<p>如果图像小于页面图像就会重复</p>
+</body>
+</html>

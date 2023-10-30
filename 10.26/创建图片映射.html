@@ -1,0 +1,31 @@
+<html>
+<body>
+<p>请点击图像上的星球，将他么放大<p>
+<img src="./img/planet.jpg" boder="0" usemap="#plantmap" alt="Planets"/>
+<map name="planetmap" id="planetmap">
+<area 
+shape="circle"
+coords="180,139,14" 
+herf="/example/html/venus.html"
+target="_blank"
+alt="Venus"/> 
+
+<area
+shape="circle"
+coords="129,161,10"
+href="/example/html/mercur.html"
+target="_blank"
+alt="Mercury"/>
+
+<area
+shape="rect"
+coords="0,0,110,260"
+herf="/example/html/sun.html"
+targgt="_blank"
+alt="Sun"/>
+
+</map>
+
+<p><b>注释：</b>img 元素中的”usemap“属性引用 map 元素 中的"id"或者"name"属性 所以我们同时向map元素中添加”id“和”name“属性
+</bdoy>
+</html>
