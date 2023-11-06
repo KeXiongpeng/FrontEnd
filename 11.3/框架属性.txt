@@ -1,0 +1,40 @@
+<html>
+<body>
+<p><b>注释:</b>frame属性无法在internet explorer中无法正确显示</b>
+<p>table frame="box":</p>
+<table frame="box">
+<tr>
+   <td>1</td>
+   <td>2</td>
+</tr>
+</table>
+<p>table with frame="above"</p>
+<table frame="above">
+<tr>
+   <td>1</td>
+   <td>2</td>
+</tr>
+</table>
+<p>table with frame="below"</p>
+<table frame="below">
+<tr>
+   <td>1</td>
+   <td>2</td>
+</tr>
+</table>
+<p>table with frame="hsides"</p>
+<table frame="hsides">
+<tr>
+   <td>1</td>
+   <td>2</td>
+</tr>
+</table>
+<p>table with frame="vsides"</p>
+<table frame="vsides">
+<tr>
+   <td>1</td>
+   <td>2</td>
+</tr>
+</table>
+</body>
+</html>

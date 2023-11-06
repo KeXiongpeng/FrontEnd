@@ -1,0 +1,15 @@
+<html>
+<body>
+<h4>单元背景</h4>
+<table border="1">
+<tr>
+   <td bgcolor="red">1</td>
+   <td>2</td>
+</tr>
+<tr>
+   <td background="./img/LINA.jpg">2</td>
+    <td>3</td>
+</tr>
+</table>
+</body>   
+</html>
