@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+/*设置id为"myHeader"的元素样式*/
+#myHeader{
+   background-color:lighteblue；
+     color:black;
+   padding:40px;
+   text-align:"center";
+}
+/*设置类名·为“city”的所有元素样式*/
+.city{
+  background-color:red;
+  color:white;
+  padding:10px
+}
+</style>
+</head>
+<body>
+<p>一个类名可以由多个HTML元素使用，而一个id名称只能由一个HTML元素</p>
+<h1 id="myHeader">我的城市</h1>
+<h2 class="city">上海</h2>
+<p>中国最大的经济城市</p>
+<h3 class="city">福建</h3>
+<p>中国的城市之一</p>
+</body>
+</html>
