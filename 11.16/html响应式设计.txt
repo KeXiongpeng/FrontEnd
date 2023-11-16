@@ -4,7 +4,7 @@
 .city{
 float: left;
 margin: 5px;
-padding: 15px；
+padding: 15px;
 width: 300px;
 heigth: 300px;
 border: 1px solid black;
